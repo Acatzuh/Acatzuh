@@ -46,9 +46,6 @@
 ### Game Development
 
 [![Roblox Studio](https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat-square&logo=roblox&logoColor=white)](https://create.roblox.com/)
-[![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)](https://godotengine.org/)
-[![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)](https://unity.com/)
-[![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=flat-square&logo=gamemaker&logoColor=white)](https://gamemaker.io/)
 
 ### Mobile Development
 
