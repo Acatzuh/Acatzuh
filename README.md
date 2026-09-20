@@ -78,9 +78,3 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 
 ---
-
-<p align="center">
-  <a href="https://github.com/Demonbane18">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Demonbane18?style=social">
-  </a>
-</p>
