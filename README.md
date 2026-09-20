@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sean Patrick Layno 👋</h1>
+<h1 align="center">Hi, I'm Acatzuuh 👋</h1>
 
 <h3 align="center">Software Developer · Game Developer · Quality Assurance</h3>
 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:patricklayno2018@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-patricklayno2018%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="mailto:sparkink.official@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-sparkink.official%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 ## About Me
@@ -16,7 +16,7 @@
 - 💻 Software developer building websites and mobile applications
 - 🎮 Game developer creating games on Roblox as a full-stack developer
 - 🧪 Quality assurance tester
-- 📫 Reach me at [patricklayno2018@gmail.com](mailto:patricklayno2018@gmail.com)
+- 📫 Reach me at [sparkink.official@gmail.com](mailto:sparkink.official@gmail.com)
 
 ## Technology Stack
 
